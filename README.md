@@ -8,7 +8,10 @@
 ## AIM
  To perform experimental verification of various types of sampling such as natural sampling and flat top sampling.
 ## APPARATUS REQUIRED
-Trainer Kit, DSO(10MHz) , Patch Cords and Power Supply (0-30V)   
+Trainer Kit
+DSO(10MHz)
+Patch Cords
+Power Supply (0-30V)   
 ## PROCEDURE
 
 ## CIRCUIT DIAGRAM
@@ -20,4 +23,4 @@ Trainer Kit, DSO(10MHz) , Patch Cords and Power Supply (0-30V)
 ## OUTPUT GRAPHS
 
 ## RESULT 
-Thus the sapmpling and reconstruction of the given input signal is done using different types of sampling techniques.
+Thus the sampling and reconstruction of the given input signal is done using different types of sampling techniques.
