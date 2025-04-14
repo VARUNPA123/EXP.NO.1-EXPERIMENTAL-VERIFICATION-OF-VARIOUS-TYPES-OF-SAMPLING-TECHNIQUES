@@ -41,14 +41,20 @@ Trainer Kit, DSO (10MHz), Patch Cords, Power Supply (0-30V)
 8. Repeat the procedure for the 2khz, sine wave signal as input
 ## CIRCUIT DIAGRAM
 **NATURAL SAMPLING:**
+
 ![image](https://github.com/user-attachments/assets/be8015bb-f29d-4499-8b80-47c2c0dedfb0)
+
 **SAMPLE AND HOLD**:
+
 ![image](https://github.com/user-attachments/assets/0099a7d4-4f74-4108-bd5a-4dd207cf96b4)
 
 ## MODEL GRAPH
 **NATURAL SAMPLING:**
+
 ![image](https://github.com/user-attachments/assets/0b15e693-c04d-46c6-af98-2a651bd3d570)
+
 **FLAT TOP SAMPLING:**
+
 ![image](https://github.com/user-attachments/assets/50540466-8251-4b9a-9708-06a3ab4ae18b)
 
 
