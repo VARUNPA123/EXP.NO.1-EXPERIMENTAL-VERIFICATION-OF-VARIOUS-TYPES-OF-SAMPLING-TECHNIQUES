@@ -49,12 +49,7 @@ Trainer Kit, DSO (10MHz), Patch Cords, Power Supply (0-30V)
 ![image](https://github.com/user-attachments/assets/0099a7d4-4f74-4108-bd5a-4dd207cf96b4)
 
 ## MODEL GRAPH
-**NATURAL SAMPLING:**
-
 ![image](https://github.com/user-attachments/assets/0b15e693-c04d-46c6-af98-2a651bd3d570)
-
-**FLAT TOP SAMPLING:**
-
 ![image](https://github.com/user-attachments/assets/50540466-8251-4b9a-9708-06a3ab4ae18b)
 
 
@@ -64,6 +59,11 @@ Trainer Kit, DSO (10MHz), Patch Cords, Power Supply (0-30V)
 
 
 ## OUTPUT GRAPHS
+![WhatsAppImage2025-04-15at6 21 55AM](https://github.com/user-attachments/assets/846b11c9-b519-43d0-8fbf-1d794fb05367)
+![WhatsAppImage2025-04-15at6 22 22AM](https://github.com/user-attachments/assets/9dd59fb2-bbf9-4105-afdd-7bb3900ca596)
+![WhatsAppImage2025-04-15at6 23 27AM](https://github.com/user-attachments/assets/bb909938-7b97-4985-a7e0-7be00e60ab4d)
+
+
 
 ## RESULT 
 Thus the sampling and reconstruction of the given input signal is done using different types of sampling techniques (Natural, Flat top, Sample and Hold) circuit.
